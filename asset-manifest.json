@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/assignment2.11_calculator/static/css/main.073c9b0a.css",
-    "main.js": "/assignment2.11_calculator/static/js/main.ab8a0b25.js",
+    "main.css": "/assignment2.11_calculator/static/css/main.e6c13ad2.css",
+    "main.js": "/assignment2.11_calculator/static/js/main.e9e7f748.js",
     "static/js/787.f27de225.chunk.js": "/assignment2.11_calculator/static/js/787.f27de225.chunk.js",
-    "static/media/logo.svg": "/assignment2.11_calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/assignment2.11_calculator/index.html",
-    "main.073c9b0a.css.map": "/assignment2.11_calculator/static/css/main.073c9b0a.css.map",
-    "main.ab8a0b25.js.map": "/assignment2.11_calculator/static/js/main.ab8a0b25.js.map",
+    "main.e6c13ad2.css.map": "/assignment2.11_calculator/static/css/main.e6c13ad2.css.map",
+    "main.e9e7f748.js.map": "/assignment2.11_calculator/static/js/main.e9e7f748.js.map",
     "787.f27de225.chunk.js.map": "/assignment2.11_calculator/static/js/787.f27de225.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ab8a0b25.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e9e7f748.js"
   ]
 }
