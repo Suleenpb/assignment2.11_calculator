@@ -12,7 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage" : "https://Suleenpb.github.io/assignment2.11_calculator/"
+  "homepage" : "https://Suleenpb.github.io/assignment2.11_calculator",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
